@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunnRita
-- 👀 I’m interested in design, programming in Python, and hiking in the mountains
+- 👀 I’m interested in design, programming in Python, teaching, and hiking in the mountains.
 - 💞️ I want to create my own convenient service for tutors
 - 📫 You can contact me by telegram (@brunnrita) or by mail (brunnerita@gmail.com)
 - ⚡ Fun fact: As a child, I couldn’t answer the question “what do you want to be when you grow up?”, so I decided not to grow (yes, my height is 156 cm).
